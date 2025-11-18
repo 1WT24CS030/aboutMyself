@@ -1,0 +1,9 @@
+title:sufi noor .m
+full name:sufi noor m
+usn : 1wt24cs030
+sem:third
+section:A
+BRANCH :Computer science
+year of admission :2024
+college name:GITW
+
