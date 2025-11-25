@@ -6,4 +6,7 @@ section:A
 BRANCH :Computer science
 year of admission :2024
 college name:GITW
+SSLC : MVS ENGLISH HIGH SCHOOL
+PUC : ARIHANT PU COLLEGE
+UG : 2nd year B.E
 
